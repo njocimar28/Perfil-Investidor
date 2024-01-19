@@ -1,0 +1,1010 @@
+ID_cliente;genero;escolaridade;idade;estado_civil;id_estado
+1;Masculino;Graduação;65;Viúvo;10
+2;Masculino;Pós-graduação;39;Casado;5
+3;Feminino;Pós-graduação;39;Divorciado;27
+4;Feminino;Ensino Médio;36;Solteiro;9
+5;Masculino;Ensino Médio;57;Solteiro;18
+6;Feminino;Graduação;58;Casado;26
+7;Feminino;Ensino Médio;47;Solteiro;11
+8;Feminino;Ensino Médio;33;Viúvo;14
+9;Masculino;Ensino Médio;35;Solteiro;6
+10;Feminino;Ensino Médio;47;Solteiro;18
+11;Feminino;Ensino Médio;20;Solteiro;22
+12;Feminino;Pós-graduação;27;Viúvo;15
+13;Masculino;Pós-graduação;35;Solteiro;18
+14;Masculino;Pós-graduação;55;Viúvo;3
+15;Feminino;Graduação;50;Casado;23
+16;Masculino;Ensino Médio;39;Divorciado;5
+17;Masculino;Ensino Médio;40;Solteiro;15
+18;Masculino;Pós-graduação;20;Divorciado;18
+19;Masculino;Ensino Médio;29;Solteiro;8
+20;Masculino;Ensino Médio;35;Divorciado;19
+21;Feminino;Graduação;53;Solteiro;20
+22;Masculino;Graduação;28;Casado;5
+23;Feminino;Graduação;61;Viúvo;1
+24;Masculino;Graduação;61;Divorciado;17
+25;Feminino;Ensino Médio;48;Divorciado;27
+26;Masculino;Pós-graduação;32;Divorciado;25
+27;Feminino;Graduação;61;Divorciado;25
+28;Masculino;Pós-graduação;35;Solteiro;8
+29;Feminino;Pós-graduação;55;Solteiro;8
+30;Masculino;Pós-graduação;28;Divorciado;27
+31;Feminino;Graduação;55;Solteiro;2
+32;Masculino;Pós-graduação;55;Divorciado;27
+33;Masculino;Ensino Médio;50;Divorciado;12
+34;Masculino;Pós-graduação;52;Divorciado;19
+35;Feminino;Ensino Médio;32;Divorciado;4
+36;Masculino;Graduação;56;Viúvo;14
+37;Masculino;Graduação;67;Casado;6
+38;Feminino;Pós-graduação;66;Solteiro;4
+39;Feminino;Pós-graduação;59;Viúvo;9
+40;Feminino;Graduação;36;Viúvo;12
+41;Feminino;Graduação;38;Viúvo;16
+42;Feminino;Ensino Médio;54;Viúvo;20
+43;Masculino;Pós-graduação;61;Divorciado;8
+44;Masculino;Ensino Médio;34;Viúvo;2
+45;Feminino;Pós-graduação;57;Viúvo;26
+46;Feminino;Graduação;30;Viúvo;8
+47;Masculino;Pós-graduação;27;Solteiro;16
+48;Feminino;Ensino Médio;29;Solteiro;27
+49;Feminino;Ensino Médio;66;Divorciado;17
+50;Masculino;Graduação;66;Viúvo;14
+51;Feminino;Ensino Médio;49;Solteiro;23
+52;Feminino;Ensino Médio;37;Viúvo;22
+53;Feminino;Graduação;38;Viúvo;5
+54;Feminino;Ensino Médio;54;Divorciado;21
+55;Feminino;Graduação;50;Divorciado;23
+56;Feminino;Ensino Médio;62;Divorciado;25
+57;Feminino;Pós-graduação;29;Divorciado;4
+58;Feminino;Ensino Médio;20;Casado;9
+59;Feminino;Pós-graduação;62;Solteiro;18
+60;Feminino;Pós-graduação;44;Divorciado;15
+61;Masculino;Ensino Médio;49;Divorciado;17
+62;Feminino;Ensino Médio;29;Casado;24
+63;Masculino;Ensino Médio;59;Divorciado;23
+64;Feminino;Pós-graduação;54;Viúvo;25
+65;Masculino;Graduação;56;Casado;21
+66;Feminino;Pós-graduação;38;Divorciado;3
+67;Masculino;Ensino Médio;65;Viúvo;1
+68;Feminino;Pós-graduação;30;Divorciado;27
+69;Feminino;Pós-graduação;62;Divorciado;24
+70;Feminino;Graduação;47;Solteiro;4
+71;Feminino;Ensino Médio;43;Divorciado;12
+72;Masculino;Graduação;58;Viúvo;9
+73;Masculino;Graduação;68;Casado;7
+74;Masculino;Graduação;48;Casado;18
+75;Feminino;Pós-graduação;32;Casado;26
+76;Masculino;Pós-graduação;33;Solteiro;4
+77;Feminino;Pós-graduação;33;Divorciado;19
+78;Feminino;Ensino Médio;18;Divorciado;4
+79;Feminino;Graduação;20;Viúvo;6
+80;Masculino;Ensino Médio;68;Casado;15
+81;Feminino;Ensino Médio;40;Viúvo;26
+82;Feminino;Ensino Médio;30;Divorciado;13
+83;Feminino;Pós-graduação;62;Divorciado;16
+84;Feminino;Pós-graduação;44;Solteiro;17
+85;Masculino;Ensino Médio;32;Divorciado;23
+86;Feminino;Graduação;68;Viúvo;15
+87;Masculino;Pós-graduação;25;Casado;22
+88;Masculino;Pós-graduação;68;Casado;2
+89;Feminino;Ensino Médio;36;Solteiro;24
+90;Feminino;Graduação;59;Solteiro;18
+91;Feminino;Graduação;44;Viúvo;2
+92;Feminino;Pós-graduação;38;Divorciado;22
+93;Feminino;Pós-graduação;18;Divorciado;25
+94;Masculino;Pós-graduação;46;Viúvo;20
+95;Masculino;Graduação;70;Solteiro;6
+96;Feminino;Ensino Médio;70;Casado;2
+97;Feminino;Ensino Médio;22;Solteiro;17
+98;Feminino;Graduação;53;Solteiro;25
+99;Masculino;Graduação;66;Solteiro;4
+100;Masculino;Pós-graduação;20;Solteiro;25
+101;Feminino;Ensino Médio;51;Divorciado;9
+102;Feminino;Graduação;20;Viúvo;5
+103;Feminino;Graduação;63;Divorciado;12
+104;Feminino;Ensino Médio;23;Viúvo;1
+105;Feminino;Graduação;38;Viúvo;22
+106;Masculino;Graduação;32;Divorciado;18
+107;Feminino;Graduação;31;Casado;8
+108;Masculino;Graduação;65;Casado;6
+109;Feminino;Graduação;49;Casado;6
+110;Masculino;Ensino Médio;29;Solteiro;27
+111;Feminino;Graduação;38;Solteiro;4
+112;Feminino;Graduação;44;Solteiro;2
+113;Feminino;Graduação;49;Solteiro;24
+114;Masculino;Graduação;37;Solteiro;6
+115;Feminino;Ensino Médio;29;Viúvo;5
+116;Feminino;Ensino Médio;31;Casado;22
+117;Feminino;Pós-graduação;59;Viúvo;6
+118;Masculino;Ensino Médio;44;Solteiro;3
+119;Masculino;Ensino Médio;70;Divorciado;27
+120;Masculino;Graduação;38;Divorciado;25
+121;Feminino;Pós-graduação;18;Casado;26
+122;Feminino;Ensino Médio;20;Casado;21
+123;Feminino;Pós-graduação;28;Divorciado;15
+124;Feminino;Pós-graduação;39;Viúvo;19
+125;Feminino;Ensino Médio;34;Solteiro;10
+126;Masculino;Graduação;43;Solteiro;19
+127;Masculino;Graduação;47;Casado;26
+128;Masculino;Pós-graduação;28;Casado;1
+129;Feminino;Graduação;66;Divorciado;11
+130;Masculino;Graduação;46;Viúvo;18
+131;Feminino;Pós-graduação;51;Solteiro;23
+132;Masculino;Graduação;58;Viúvo;21
+133;Masculino;Ensino Médio;50;Solteiro;4
+134;Feminino;Ensino Médio;31;Viúvo;11
+135;Masculino;Graduação;31;Casado;8
+136;Feminino;Pós-graduação;24;Solteiro;7
+137;Feminino;Graduação;67;Viúvo;20
+138;Masculino;Graduação;70;Viúvo;8
+139;Masculino;Graduação;45;Casado;24
+140;Feminino;Graduação;59;Viúvo;4
+141;Masculino;Ensino Médio;23;Viúvo;18
+142;Feminino;Pós-graduação;65;Casado;12
+143;Feminino;Graduação;63;Divorciado;26
+144;Feminino;Pós-graduação;43;Divorciado;16
+145;Feminino;Pós-graduação;23;Divorciado;6
+146;Masculino;Ensino Médio;21;Divorciado;9
+147;Feminino;Ensino Médio;34;Solteiro;27
+148;Masculino;Ensino Médio;20;Viúvo;5
+149;Feminino;Graduação;34;Divorciado;11
+150;Feminino;Pós-graduação;57;Viúvo;23
+151;Masculino;Ensino Médio;56;Casado;23
+152;Masculino;Ensino Médio;;Viúvo;4
+153;Feminino;Pós-graduação;29;Viúvo;12
+154;Feminino;Pós-graduação;40;Divorciado;24
+155;Feminino;Graduação;48;Solteiro;21
+156;Masculino;Pós-graduação;38;Divorciado;12
+157;Feminino;Graduação;70;Solteiro;19
+158;Feminino;Ensino Médio;25;Viúvo;22
+159;Feminino;Pós-graduação;22;Casado;16
+160;Masculino;Pós-graduação;45;Divorciado;17
+161;Feminino;Ensino Médio;53;Divorciado;15
+162;Feminino;Pós-graduação;26;Casado;9
+163;Masculino;Pós-graduação;18;Viúvo;19
+164;Masculino;Graduação;63;Casado;12
+165;Masculino;Graduação;65;Casado;19
+166;Feminino;Ensino Médio;65;Solteiro;21
+167;Feminino;Ensino Médio;43;Casado;12
+168;Feminino;Ensino Médio;68;Viúvo;16
+169;Masculino;Ensino Médio;69;Viúvo;9
+170;Masculino;Ensino Médio;62;Casado;8
+171;Masculino;Pós-graduação;57;Viúvo;26
+172;Masculino;Graduação;32;Divorciado;16
+173;Masculino;Ensino Médio;40;Divorciado;2
+174;Feminino;Graduação;65;Casado;9
+175;Feminino;Pós-graduação;46;Casado;3
+176;Masculino;Pós-graduação;41;Solteiro;14
+177;Masculino;Graduação;41;Casado;23
+178;Feminino;Pós-graduação;65;Casado;5
+179;Feminino;Ensino Médio;19;Viúvo;7
+180;Feminino;Ensino Médio;41;Viúvo;2
+181;Masculino;Graduação;34;Viúvo;25
+182;Masculino;Ensino Médio;29;Divorciado;5
+183;Feminino;Pós-graduação;35;Solteiro;12
+184;Masculino;Graduação;63;Solteiro;18
+185;Feminino;Graduação;56;Solteiro;7
+186;Feminino;Pós-graduação;55;Viúvo;12
+187;Feminino;Ensino Médio;33;Divorciado;15
+188;Feminino;Ensino Médio;36;Divorciado;20
+189;Feminino;Ensino Médio;43;Divorciado;22
+190;Masculino;Graduação;19;Casado;8
+191;Feminino;Ensino Médio;;Casado;11
+192;Masculino;Ensino Médio;22;Divorciado;13
+193;Feminino;Graduação;29;Casado;17
+194;Masculino;Pós-graduação;33;Divorciado;5
+195;Masculino;Ensino Médio;69;Viúvo;14
+196;Feminino;Ensino Médio;32;Solteiro;20
+197;Feminino;Pós-graduação;27;Divorciado;14
+198;Masculino;Pós-graduação;66;Viúvo;16
+199;Masculino;Graduação;18;Casado;9
+200;Feminino;Pós-graduação;32;Solteiro;9
+201;Feminino;Graduação;23;Viúvo;14
+202;Masculino;Pós-graduação;32;Casado;5
+203;Masculino;Graduação;59;Viúvo;3
+204;Masculino;Graduação;49;Divorciado;19
+205;Feminino;Ensino Médio;39;Viúvo;5
+206;Masculino;Pós-graduação;25;Casado;9
+207;Masculino;Graduação;41;Solteiro;21
+208;Masculino;Graduação;60;Casado;6
+209;Masculino;Pós-graduação;51;Casado;6
+210;Masculino;Graduação;24;Viúvo;7
+211;Masculino;Ensino Médio;27;Divorciado;26
+212;Masculino;Graduação;22;Divorciado;16
+213;Feminino;Graduação;50;Viúvo;25
+214;Masculino;Graduação;37;Divorciado;27
+215;Feminino;Pós-graduação;45;Solteiro;10
+216;Masculino;Graduação;21;Casado;11
+217;Masculino;Ensino Médio;33;Solteiro;13
+218;Masculino;Ensino Médio;27;Solteiro;15
+219;Masculino;Ensino Médio;33;Viúvo;1
+220;Feminino;Pós-graduação;31;Casado;10
+221;Masculino;Ensino Médio;41;Viúvo;8
+222;Feminino;Ensino Médio;69;Divorciado;19
+223;Masculino;Pós-graduação;50;Casado;27
+224;Feminino;Graduação;36;Solteiro;4
+225;Masculino;Ensino Médio;38;Casado;1
+226;Masculino;Pós-graduação;56;Divorciado;24
+227;Masculino;Pós-graduação;65;Viúvo;10
+228;Masculino;Ensino Médio;21;Viúvo;24
+229;Feminino;Pós-graduação;51;Viúvo;2
+230;Feminino;Ensino Médio;30;Divorciado;23
+231;Masculino;Pós-graduação;61;Divorciado;16
+232;Masculino;Pós-graduação;;Viúvo;2
+233;Feminino;Ensino Médio;57;Casado;17
+234;Masculino;Graduação;42;Divorciado;16
+235;Masculino;Ensino Médio;19;Solteiro;6
+236;Feminino;Graduação;28;Divorciado;26
+237;Masculino;Graduação;23;Casado;17
+238;Masculino;Graduação;36;Solteiro;20
+239;Masculino;Graduação;58;Viúvo;25
+240;Feminino;Ensino Médio;23;Viúvo;13
+241;Masculino;Graduação;55;Casado;5
+242;Masculino;Ensino Médio;52;Divorciado;13
+243;Feminino;Ensino Médio;60;Viúvo;20
+244;Masculino;Pós-graduação;55;Divorciado;1
+245;Feminino;Pós-graduação;49;Viúvo;26
+246;Feminino;Pós-graduação;65;Casado;10
+247;Feminino;Ensino Médio;57;Solteiro;6
+248;Masculino;Ensino Médio;41;Solteiro;24
+249;Feminino;Ensino Médio;41;Casado;21
+250;Masculino;Graduação;36;Viúvo;27
+251;Feminino;Graduação;57;Casado;26
+252;Feminino;Pós-graduação;49;Divorciado;22
+253;Masculino;Ensino Médio;47;Casado;20
+254;Masculino;Graduação;70;Divorciado;8
+255;Masculino;Graduação;32;Solteiro;22
+256;Masculino;Ensino Médio;45;Casado;12
+257;Masculino;Ensino Médio;48;Casado;18
+258;Feminino;Graduação;64;Solteiro;4
+259;Feminino;Graduação;20;Solteiro;23
+260;Feminino;Ensino Médio;21;Casado;15
+261;Feminino;Pós-graduação;20;Solteiro;1
+262;Feminino;Graduação;70;Solteiro;21
+263;Masculino;Ensino Médio;23;Divorciado;20
+264;Feminino;Graduação;43;Divorciado;2
+265;Feminino;Ensino Médio;33;Solteiro;19
+266;Masculino;Pós-graduação;21;Solteiro;7
+267;Masculino;Pós-graduação;56;Casado;16
+268;Masculino;Ensino Médio;66;Viúvo;8
+269;Masculino;Pós-graduação;50;Divorciado;11
+270;Masculino;Ensino Médio;36;Solteiro;14
+271;Masculino;Pós-graduação;26;Divorciado;4
+272;Masculino;Pós-graduação;;Divorciado;16
+273;Masculino;Ensino Médio;57;Casado;9
+274;Feminino;Ensino Médio;63;Divorciado;4
+275;Masculino;Ensino Médio;31;Solteiro;22
+276;Feminino;Ensino Médio;57;Casado;14
+277;Masculino;Graduação;42;Casado;16
+278;Masculino;Graduação;53;Solteiro;2
+279;Masculino;Pós-graduação;50;Viúvo;9
+280;Masculino;Ensino Médio;48;Casado;23
+281;Masculino;Pós-graduação;34;Casado;3
+282;Masculino;Ensino Médio;62;Casado;14
+283;Feminino;Ensino Médio;37;Viúvo;12
+284;Feminino;Pós-graduação;36;Viúvo;14
+285;Masculino;Ensino Médio;56;Divorciado;3
+286;Feminino;Graduação;60;Viúvo;5
+287;Masculino;Pós-graduação;51;Divorciado;9
+288;Masculino;Graduação;61;Viúvo;6
+289;Feminino;Pós-graduação;49;Casado;2
+290;Feminino;Graduação;20;Divorciado;11
+291;Masculino;Pós-graduação;49;Viúvo;7
+292;Masculino;Pós-graduação;31;Viúvo;25
+293;Feminino;Graduação;40;Casado;16
+294;Masculino;Ensino Médio;70;Divorciado;2
+295;Feminino;Graduação;36;Solteiro;11
+296;Feminino;Graduação;49;Casado;10
+297;Feminino;Ensino Médio;40;Divorciado;6
+298;Masculino;Graduação;57;Divorciado;18
+299;Masculino;Pós-graduação;33;Casado;24
+300;Masculino;Pós-graduação;50;Viúvo;7
+301;Masculino;Ensino Médio;47;Divorciado;26
+302;Masculino;Ensino Médio;55;Casado;14
+303;Masculino;Graduação;39;Divorciado;8
+304;Feminino;Graduação;33;Viúvo;13
+305;Masculino;Graduação;42;Viúvo;20
+306;Masculino;Ensino Médio;31;Viúvo;10
+307;Feminino;Ensino Médio;38;Viúvo;23
+308;Feminino;Ensino Médio;32;Viúvo;15
+309;Feminino;Pós-graduação;47;Solteiro;19
+310;Masculino;Pós-graduação;53;Viúvo;14
+311;Feminino;Ensino Médio;66;Viúvo;24
+312;Feminino;Pós-graduação;38;Divorciado;3
+313;Feminino;Graduação;52;Divorciado;18
+314;Feminino;Ensino Médio;59;Divorciado;11
+315;Feminino;Ensino Médio;18;Solteiro;7
+316;Masculino;Ensino Médio;27;Divorciado;3
+317;Masculino;Pós-graduação;65;Viúvo;17
+318;Feminino;Ensino Médio;62;Casado;2
+319;Feminino;Graduação;38;Solteiro;14
+320;Feminino;Ensino Médio;64;Casado;15
+321;Feminino;Graduação;57;Casado;14
+322;Masculino;Ensino Médio;68;Divorciado;22
+323;Masculino;Pós-graduação;18;Casado;21
+324;Masculino;Graduação;50;Viúvo;12
+325;Feminino;Ensino Médio;60;Solteiro;9
+326;Masculino;Pós-graduação;20;Solteiro;12
+327;Feminino;Graduação;36;Viúvo;3
+328;Masculino;Graduação;31;Solteiro;1
+329;Feminino;Pós-graduação;;Casado;27
+330;Feminino;Ensino Médio;19;Viúvo;25
+331;Masculino;Ensino Médio;47;Viúvo;22
+332;Masculino;Pós-graduação;62;Solteiro;1
+333;Masculino;Ensino Médio;42;Casado;16
+334;Feminino;Graduação;46;Solteiro;11
+335;Masculino;Graduação;21;Casado;18
+336;Masculino;Ensino Médio;19;Divorciado;19
+337;Masculino;Pós-graduação;41;Viúvo;4
+338;Masculino;Pós-graduação;67;Divorciado;7
+339;Masculino;Graduação;20;Solteiro;3
+340;Feminino;Pós-graduação;33;Solteiro;21
+341;Masculino;Ensino Médio;59;Viúvo;22
+342;Masculino;Graduação;56;Divorciado;23
+343;Feminino;Ensino Médio;40;Divorciado;13
+344;Feminino;Pós-graduação;52;Solteiro;22
+345;Feminino;Ensino Médio;65;Divorciado;1
+346;Masculino;Pós-graduação;70;Divorciado;18
+347;Masculino;Pós-graduação;53;Solteiro;24
+348;Masculino;Graduação;69;Viúvo;25
+349;Masculino;Ensino Médio;40;Viúvo;12
+350;Feminino;Pós-graduação;21;Divorciado;1
+351;Masculino;Graduação;40;Viúvo;3
+352;Feminino;Ensino Médio;50;Divorciado;22
+353;Feminino;Ensino Médio;30;Solteiro;4
+354;Masculino;Graduação;64;Casado;13
+355;Masculino;Ensino Médio;24;Solteiro;2
+356;Feminino;Graduação;18;Divorciado;2
+357;Masculino;Graduação;59;Divorciado;21
+358;Masculino;Ensino Médio;49;Casado;23
+359;Feminino;Ensino Médio;50;Viúvo;11
+360;Masculino;Ensino Médio;66;Viúvo;20
+361;Feminino;Pós-graduação;20;Divorciado;23
+362;Masculino;Graduação;63;Solteiro;24
+363;Masculino;Ensino Médio;37;Viúvo;19
+364;Feminino;Graduação;46;Solteiro;12
+365;Masculino;Ensino Médio;25;Viúvo;7
+366;Masculino;Graduação;67;Solteiro;11
+367;Masculino;Ensino Médio;43;Divorciado;26
+368;Feminino;Pós-graduação;51;Solteiro;3
+369;Masculino;Ensino Médio;54;Viúvo;12
+370;Masculino;Pós-graduação;54;Solteiro;17
+371;Masculino;Pós-graduação;21;Solteiro;9
+372;Masculino;Graduação;35;Viúvo;21
+373;Masculino;Ensino Médio;54;Casado;26
+374;Masculino;Ensino Médio;21;Viúvo;26
+375;Feminino;Ensino Médio;65;Divorciado;11
+376;Feminino;Ensino Médio;42;Casado;4
+377;Masculino;Graduação;66;Viúvo;21
+378;Feminino;Graduação;48;Viúvo;11
+379;Feminino;Pós-graduação;18;Viúvo;3
+380;Feminino;Pós-graduação;;Viúvo;19
+381;Masculino;Graduação;27;Viúvo;17
+382;Feminino;Pós-graduação;23;Divorciado;14
+383;Feminino;Graduação;41;Viúvo;16
+384;Feminino;Pós-graduação;56;Viúvo;5
+385;Masculino;Pós-graduação;18;Divorciado;24
+386;Feminino;Ensino Médio;38;Casado;16
+387;Masculino;Graduação;65;Viúvo;12
+388;Feminino;Ensino Médio;60;Solteiro;21
+389;Feminino;Pós-graduação;64;Casado;7
+390;Masculino;Ensino Médio;20;Casado;18
+391;Masculino;Pós-graduação;43;Viúvo;19
+392;Feminino;Pós-graduação;56;Divorciado;9
+393;Feminino;Graduação;42;Solteiro;1
+394;Feminino;Ensino Médio;66;Solteiro;21
+395;Feminino;Graduação;24;Divorciado;6
+396;Feminino;Pós-graduação;22;Divorciado;20
+397;Feminino;Graduação;39;Divorciado;22
+398;Masculino;Ensino Médio;30;Casado;21
+399;Feminino;Graduação;29;Divorciado;2
+400;Feminino;Graduação;44;Viúvo;26
+401;Feminino;Graduação;66;Viúvo;20
+402;Masculino;Graduação;24;Casado;12
+403;Masculino;Pós-graduação;23;Solteiro;16
+404;Feminino;Graduação;48;Divorciado;8
+405;Feminino;Pós-graduação;23;Casado;22
+406;Feminino;;19;Casado;6
+407;Masculino;Ensino Médio;46;Viúvo;9
+408;Masculino;Graduação;49;Casado;13
+409;Masculino;Graduação;44;Solteiro;9
+410;Masculino;Graduação;45;Solteiro;21
+411;Feminino;Pós-graduação;70;Viúvo;4
+412;Feminino;Graduação;55;Solteiro;10
+413;Masculino;Graduação;56;Solteiro;1
+414;Masculino;Graduação;29;Divorciado;16
+415;Masculino;Ensino Médio;22;Casado;16
+416;Feminino;Ensino Médio;65;Casado;14
+417;Feminino;Ensino Médio;59;Solteiro;22
+418;Masculino;Graduação;29;Casado;17
+419;Masculino;Pós-graduação;65;Solteiro;9
+420;Masculino;Graduação;61;Divorciado;10
+421;Feminino;Graduação;23;Viúvo;16
+422;Feminino;Graduação;51;Divorciado;24
+423;Masculino;Graduação;24;Solteiro;11
+424;Masculino;Pós-graduação;39;Viúvo;7
+425;Masculino;Pós-graduação;29;Viúvo;14
+426;Masculino;Pós-graduação;27;Divorciado;8
+427;Masculino;Pós-graduação;38;Casado;10
+428;Masculino;Pós-graduação;;Divorciado;12
+429;Feminino;Pós-graduação;46;Casado;17
+430;Masculino;Ensino Médio;60;Viúvo;8
+431;Masculino;Pós-graduação;57;Casado;2
+432;Feminino;Ensino Médio;40;Solteiro;12
+433;Masculino;Graduação;18;Solteiro;3
+434;Masculino;Ensino Médio;49;Solteiro;20
+435;Masculino;Pós-graduação;41;Viúvo;2
+436;Masculino;Ensino Médio;22;Viúvo;10
+437;Feminino;Ensino Médio;58;Casado;7
+438;Feminino;Ensino Médio;44;Casado;8
+439;Feminino;Graduação;59;Casado;14
+440;Feminino;Graduação;43;Casado;8
+441;Masculino;Graduação;57;Solteiro;16
+442;Masculino;Graduação;63;Casado;14
+443;Masculino;Pós-graduação;67;Solteiro;23
+444;Feminino;Ensino Médio;54;Solteiro;7
+445;Feminino;Pós-graduação;68;Casado;22
+446;Feminino;Pós-graduação;46;Viúvo;24
+447;Masculino;Pós-graduação;53;Divorciado;25
+448;Masculino;Ensino Médio;67;Divorciado;21
+449;Masculino;Pós-graduação;22;Casado;25
+450;Masculino;Ensino Médio;62;Divorciado;25
+451;Feminino;Ensino Médio;21;Casado;25
+452;Masculino;Ensino Médio;56;Divorciado;11
+453;Feminino;Ensino Médio;52;Solteiro;25
+454;Feminino;Ensino Médio;58;Casado;14
+455;Masculino;Graduação;37;Solteiro;16
+456;Feminino;Graduação;44;Divorciado;21
+457;Feminino;Ensino Médio;67;Casado;11
+458;Masculino;Ensino Médio;43;Solteiro;20
+459;Masculino;Ensino Médio;29;Viúvo;10
+460;Feminino;Pós-graduação;24;Solteiro;19
+461;Masculino;Graduação;60;Solteiro;15
+462;Masculino;Pós-graduação;21;Casado;23
+463;Feminino;Graduação;53;Casado;2
+464;Masculino;Graduação;46;Viúvo;12
+465;Masculino;Graduação;54;Casado;17
+466;Masculino;Ensino Médio;62;Solteiro;22
+467;Masculino;Pós-graduação;65;Viúvo;24
+468;Masculino;Pós-graduação;30;Casado;1
+469;Feminino;Pós-graduação;44;Casado;5
+470;Feminino;Ensino Médio;65;Casado;18
+471;Feminino;Pós-graduação;42;Solteiro;4
+472;Feminino;Graduação;63;Casado;8
+473;Feminino;Graduação;49;Solteiro;6
+474;Masculino;;38;Divorciado;4
+475;Feminino;Graduação;44;Casado;20
+476;Feminino;Graduação;67;Casado;17
+477;Feminino;Graduação;33;Casado;7
+478;Masculino;Pós-graduação;42;Solteiro;24
+479;Masculino;Graduação;;Solteiro;11
+480;Masculino;Graduação;45;Casado;19
+481;Feminino;Pós-graduação;50;Solteiro;3
+482;Feminino;Graduação;49;Solteiro;5
+483;Masculino;Ensino Médio;32;Divorciado;5
+484;Feminino;Graduação;29;Viúvo;23
+485;Feminino;Ensino Médio;43;Viúvo;8
+486;Feminino;Pós-graduação;64;Casado;1
+487;Feminino;Graduação;57;Divorciado;14
+488;Masculino;Ensino Médio;50;Viúvo;22
+489;Feminino;Pós-graduação;22;Solteiro;26
+490;Masculino;Pós-graduação;52;Divorciado;14
+491;Masculino;Graduação;36;Viúvo;12
+492;Feminino;Graduação;59;Divorciado;23
+493;Masculino;Graduação;28;Divorciado;16
+494;Feminino;Ensino Médio;32;Solteiro;20
+495;Feminino;Pós-graduação;60;Viúvo;13
+496;Masculino;Ensino Médio;42;Viúvo;27
+497;Masculino;Graduação;23;Viúvo;15
+498;Masculino;Ensino Médio;26;Divorciado;23
+499;Masculino;Pós-graduação;29;Casado;20
+500;Masculino;Pós-graduação;36;Divorciado;13
+501;Masculino;Pós-graduação;57;Casado;21
+502;Feminino;Pós-graduação;48;Solteiro;13
+503;Masculino;Ensino Médio;19;Casado;16
+504;Feminino;Graduação;59;Solteiro;24
+505;Feminino;Graduação;40;Casado;18
+506;Masculino;Pós-graduação;55;Viúvo;14
+507;Masculino;Ensino Médio;41;Viúvo;6
+508;Masculino;Ensino Médio;26;Casado;14
+509;Masculino;Graduação;65;Divorciado;12
+510;Feminino;Graduação;59;Casado;17
+511;Masculino;Pós-graduação;18;Viúvo;16
+512;Masculino;Ensino Médio;41;Casado;6
+513;Feminino;Graduação;69;Casado;21
+514;Feminino;Ensino Médio;51;Solteiro;17
+515;Masculino;Ensino Médio;58;Viúvo;9
+516;Feminino;Ensino Médio;33;Casado;2
+517;Masculino;Pós-graduação;23;Solteiro;27
+518;Feminino;Graduação;48;Divorciado;17
+519;Masculino;Ensino Médio;54;Divorciado;7
+520;Feminino;Graduação;24;Viúvo;2
+521;Feminino;Graduação;56;Solteiro;13
+522;Feminino;Pós-graduação;23;Divorciado;14
+523;Feminino;Pós-graduação;43;Casado;19
+524;Masculino;Ensino Médio;45;Divorciado;25
+525;Masculino;;48;Solteiro;6
+526;Feminino;Pós-graduação;21;Solteiro;9
+527;Feminino;Ensino Médio;53;Viúvo;19
+528;Masculino;Graduação;46;Divorciado;27
+529;Feminino;Ensino Médio;36;Casado;19
+530;Masculino;Graduação;;Viúvo;18
+531;Masculino;Ensino Médio;31;Divorciado;25
+532;Masculino;Ensino Médio;32;Divorciado;24
+533;Feminino;Graduação;64;Viúvo;8
+534;Masculino;Pós-graduação;22;Casado;18
+535;Feminino;Pós-graduação;25;Divorciado;6
+536;Feminino;Ensino Médio;47;Viúvo;13
+537;Feminino;Ensino Médio;32;Divorciado;11
+538;Masculino;Graduação;36;Solteiro;12
+539;Feminino;Ensino Médio;19;Solteiro;26
+540;Masculino;Graduação;33;Viúvo;26
+541;Feminino;Ensino Médio;27;Casado;26
+542;Masculino;Graduação;68;Casado;22
+543;Feminino;Pós-graduação;50;Solteiro;9
+544;Masculino;Pós-graduação;33;Casado;17
+545;Masculino;Pós-graduação;35;Divorciado;23
+546;Feminino;Graduação;68;Viúvo;1
+547;Feminino;Pós-graduação;45;Viúvo;19
+548;Masculino;Ensino Médio;64;Divorciado;23
+549;Feminino;Graduação;67;Solteiro;21
+550;Masculino;Pós-graduação;51;Solteiro;8
+551;Feminino;Pós-graduação;52;Divorciado;5
+552;Masculino;Graduação;37;Viúvo;9
+553;Feminino;Ensino Médio;42;Casado;18
+554;Masculino;Pós-graduação;65;Casado;25
+555;Feminino;Pós-graduação;52;Casado;3
+556;Masculino;Graduação;67;Solteiro;10
+557;Feminino;Pós-graduação;63;Divorciado;6
+558;Feminino;Pós-graduação;60;Viúvo;8
+559;Feminino;Ensino Médio;33;Solteiro;5
+560;Masculino;Pós-graduação;42;Solteiro;2
+561;Feminino;Pós-graduação;36;Viúvo;23
+562;Masculino;Graduação;33;Divorciado;12
+563;Masculino;Ensino Médio;70;Solteiro;11
+564;Masculino;Pós-graduação;49;Casado;11
+565;Masculino;Pós-graduação;57;Divorciado;10
+566;Masculino;Graduação;35;Casado;22
+567;Masculino;Pós-graduação;44;Divorciado;13
+568;Feminino;Graduação;33;Divorciado;17
+569;Masculino;Graduação;55;Divorciado;10
+570;Feminino;Ensino Médio;58;Solteiro;15
+571;Feminino;Pós-graduação;51;Casado;17
+572;Masculino;Graduação;45;Divorciado;4
+573;Masculino;Pós-graduação;38;Divorciado;24
+574;Masculino;Pós-graduação;28;Solteiro;16
+575;Feminino;Graduação;28;Solteiro;17
+576;Feminino;Ensino Médio;64;Solteiro;9
+577;Feminino;Graduação;60;Solteiro;24
+578;Feminino;Pós-graduação;;Viúvo;13
+579;Masculino;Ensino Médio;50;Viúvo;7
+580;Masculino;Pós-graduação;61;Viúvo;6
+581;Masculino;Graduação;19;Casado;17
+582;Feminino;Graduação;53;Solteiro;3
+583;Feminino;Ensino Médio;68;Casado;10
+584;Feminino;Ensino Médio;59;Casado;23
+585;Masculino;Ensino Médio;55;Divorciado;12
+586;Feminino;Ensino Médio;49;Divorciado;16
+587;Feminino;Ensino Médio;69;Solteiro;9
+588;Masculino;Ensino Médio;21;Casado;3
+589;Feminino;Ensino Médio;39;Viúvo;7
+590;Feminino;Graduação;34;Casado;25
+591;Feminino;;39;Viúvo;26
+592;Masculino;Graduação;53;Casado;20
+593;Masculino;Ensino Médio;45;Casado;13
+594;Masculino;Ensino Médio;39;Divorciado;14
+595;Masculino;Graduação;41;Divorciado;13
+596;Feminino;Pós-graduação;57;Solteiro;20
+597;Masculino;Ensino Médio;33;Viúvo;3
+598;Feminino;Ensino Médio;38;Divorciado;15
+599;Feminino;Ensino Médio;56;Casado;9
+600;Masculino;Pós-graduação;65;Casado;17
+601;Masculino;Graduação;40;Solteiro;11
+602;Masculino;Graduação;65;Viúvo;27
+603;Masculino;Graduação;28;Casado;26
+604;Masculino;Graduação;50;Viúvo;13
+605;Feminino;Pós-graduação;70;Divorciado;22
+606;Feminino;Pós-graduação;62;Viúvo;13
+607;Feminino;Ensino Médio;59;Viúvo;4
+608;Masculino;Graduação;59;Solteiro;10
+609;Masculino;Pós-graduação;55;Divorciado;17
+610;Feminino;Pós-graduação;50;Casado;19
+611;Masculino;Graduação;40;Divorciado;24
+612;Masculino;Ensino Médio;34;Viúvo;6
+613;Masculino;Graduação;35;Divorciado;20
+614;Masculino;Pós-graduação;34;Divorciado;20
+615;Feminino;Graduação;64;Divorciado;18
+616;Masculino;Pós-graduação;26;Divorciado;14
+617;Masculino;Ensino Médio;65;Solteiro;4
+618;Feminino;Ensino Médio;27;Casado;26
+619;Masculino;Ensino Médio;50;Viúvo;3
+620;Feminino;Ensino Médio;64;Divorciado;3
+621;Masculino;Pós-graduação;33;Viúvo;13
+622;Feminino;Graduação;25;Solteiro;21
+623;Feminino;;47;Divorciado;8
+624;Feminino;Ensino Médio;29;Viúvo;13
+625;Masculino;Pós-graduação;62;Viúvo;9
+626;Masculino;Ensino Médio;31;Divorciado;18
+627;Feminino;Ensino Médio;29;Divorciado;11
+628;Feminino;Ensino Médio;46;Solteiro;5
+629;Feminino;Ensino Médio;;Viúvo;23
+630;Feminino;Graduação;68;Casado;12
+631;Feminino;Ensino Médio;63;Casado;20
+632;Feminino;Pós-graduação;50;Solteiro;6
+633;Masculino;Graduação;53;Casado;10
+634;Masculino;Ensino Médio;70;Solteiro;20
+635;Masculino;Graduação;45;Divorciado;16
+636;Feminino;Pós-graduação;35;Casado;24
+637;Masculino;Ensino Médio;62;Solteiro;12
+638;Masculino;Graduação;63;Viúvo;6
+639;Masculino;Ensino Médio;35;Solteiro;8
+640;Feminino;Ensino Médio;69;Divorciado;2
+641;Feminino;Ensino Médio;27;Divorciado;20
+642;Masculino;Ensino Médio;35;Divorciado;22
+643;Masculino;Ensino Médio;26;Divorciado;10
+644;Masculino;Pós-graduação;47;Viúvo;24
+645;Feminino;Ensino Médio;45;Viúvo;5
+646;Masculino;Ensino Médio;47;Solteiro;8
+647;Masculino;Ensino Médio;45;Divorciado;10
+648;Feminino;Pós-graduação;54;Solteiro;18
+649;Feminino;Graduação;63;Solteiro;10
+650;Feminino;Pós-graduação;52;Casado;3
+651;Feminino;Pós-graduação;52;Divorciado;4
+652;Masculino;Graduação;31;Divorciado;25
+653;Masculino;Pós-graduação;65;Divorciado;12
+654;Masculino;Ensino Médio;30;Divorciado;12
+655;Feminino;Pós-graduação;32;Solteiro;18
+656;Feminino;Pós-graduação;67;Divorciado;27
+657;Masculino;Ensino Médio;60;Solteiro;8
+658;Feminino;Graduação;57;Viúvo;16
+659;Masculino;Ensino Médio;38;Solteiro;6
+660;Feminino;Graduação;36;Solteiro;2
+661;Masculino;Ensino Médio;69;Casado;10
+662;Masculino;Graduação;68;Casado;16
+663;Masculino;Ensino Médio;38;Casado;24
+664;Feminino;Graduação;39;Divorciado;16
+665;Feminino;Pós-graduação;47;Casado;5
+666;Masculino;Pós-graduação;;Solteiro;9
+667;Feminino;Pós-graduação;29;Solteiro;2
+668;Feminino;Pós-graduação;27;Divorciado;22
+669;Feminino;Graduação;21;Viúvo;23
+670;Masculino;Ensino Médio;21;Casado;9
+671;Feminino;Pós-graduação;28;Solteiro;5
+672;Masculino;Pós-graduação;19;Solteiro;8
+673;Feminino;Graduação;39;Viúvo;2
+674;Masculino;Ensino Médio;37;Casado;13
+675;Feminino;Pós-graduação;49;Divorciado;23
+676;Masculino;Pós-graduação;22;Divorciado;20
+677;Feminino;Ensino Médio;21;Solteiro;10
+678;Masculino;Graduação;56;Solteiro;16
+679;Feminino;Ensino Médio;33;Casado;6
+680;Masculino;Ensino Médio;21;Viúvo;27
+681;Feminino;Pós-graduação;65;Divorciado;10
+682;Feminino;Ensino Médio;49;Viúvo;3
+683;Feminino;Ensino Médio;69;Viúvo;8
+684;Feminino;Pós-graduação;51;Casado;7
+685;Feminino;Pós-graduação;24;Solteiro;11
+686;Masculino;Pós-graduação;20;Solteiro;3
+687;Masculino;Ensino Médio;39;Divorciado;26
+688;Masculino;Pós-graduação;46;Casado;13
+689;Masculino;Ensino Médio;21;Viúvo;20
+690;Masculino;Pós-graduação;59;Solteiro;4
+691;Feminino;Graduação;32;Divorciado;17
+692;Masculino;Pós-graduação;59;Solteiro;1
+693;Masculino;Ensino Médio;32;Solteiro;19
+694;Feminino;Ensino Médio;40;Solteiro;24
+695;Masculino;Ensino Médio;49;Solteiro;4
+696;Feminino;Pós-graduação;24;Casado;12
+697;Masculino;Ensino Médio;20;Viúvo;26
+698;Feminino;Graduação;18;Viúvo;26
+699;Masculino;Ensino Médio;63;Casado;4
+700;Masculino;Pós-graduação;70;Divorciado;3
+701;Feminino;Ensino Médio;53;Divorciado;8
+702;Masculino;Ensino Médio;51;Divorciado;24
+703;Masculino;Pós-graduação;45;Casado;16
+704;Masculino;Graduação;42;Solteiro;19
+705;Feminino;Graduação;21;Divorciado;24
+706;Feminino;Graduação;37;Casado;1
+707;Feminino;Graduação;68;Divorciado;18
+708;Feminino;Graduação;34;Divorciado;11
+709;Feminino;Pós-graduação;57;Casado;9
+710;Masculino;Pós-graduação;31;Viúvo;17
+711;Masculino;Graduação;40;Casado;21
+712;Masculino;Graduação;69;Viúvo;17
+713;Masculino;Ensino Médio;;Solteiro;16
+714;Masculino;Pós-graduação;55;Solteiro;6
+715;Masculino;Ensino Médio;65;Solteiro;27
+716;Masculino;Graduação;28;Solteiro;16
+717;Feminino;Pós-graduação;63;Solteiro;11
+718;Feminino;Ensino Médio;47;Viúvo;10
+719;Masculino;Pós-graduação;52;Viúvo;22
+720;Masculino;Graduação;23;Casado;4
+721;Feminino;Ensino Médio;59;Casado;16
+722;Feminino;Graduação;18;Solteiro;25
+723;Feminino;Graduação;50;Viúvo;14
+724;Feminino;Pós-graduação;57;Viúvo;21
+725;Feminino;Pós-graduação;58;Solteiro;18
+726;Feminino;Ensino Médio;62;Casado;21
+727;Feminino;Pós-graduação;59;Casado;17
+728;Feminino;Pós-graduação;55;Solteiro;23
+729;Feminino;Pós-graduação;47;Casado;18
+730;Feminino;Pós-graduação;23;Solteiro;19
+731;Masculino;Graduação;48;Casado;27
+732;Feminino;Graduação;44;Casado;22
+733;Feminino;Ensino Médio;44;Solteiro;21
+734;Feminino;Graduação;33;Solteiro;5
+735;Masculino;Ensino Médio;19;Casado;15
+736;Feminino;Graduação;69;Divorciado;2
+737;Masculino;Pós-graduação;41;Divorciado;5
+738;Feminino;Graduação;61;Viúvo;11
+739;Feminino;Ensino Médio;65;Viúvo;15
+740;Feminino;Ensino Médio;20;Solteiro;11
+741;Feminino;Ensino Médio;47;Casado;10
+742;Masculino;Graduação;47;Divorciado;18
+743;Masculino;Pós-graduação;68;Casado;12
+744;Masculino;Pós-graduação;68;Viúvo;1
+745;Masculino;Pós-graduação;48;Casado;25
+746;Masculino;Pós-graduação;61;Viúvo;18
+747;Masculino;Ensino Médio;33;Solteiro;5
+748;Feminino;Ensino Médio;41;Viúvo;25
+749;Masculino;Graduação;32;Solteiro;14
+750;Feminino;Ensino Médio;30;Casado;25
+751;Masculino;Pós-graduação;45;Divorciado;4
+752;Masculino;Ensino Médio;49;Casado;23
+753;Masculino;Ensino Médio;56;Solteiro;6
+754;Feminino;Graduação;42;Solteiro;21
+755;Masculino;Graduação;64;Casado;16
+756;Feminino;Pós-graduação;33;Divorciado;18
+757;Feminino;Ensino Médio;26;Casado;10
+758;Masculino;Graduação;51;Solteiro;19
+759;Feminino;Graduação;28;Casado;1
+760;Masculino;Pós-graduação;61;Divorciado;1
+761;Masculino;Graduação;36;Divorciado;18
+762;Feminino;Graduação;29;Solteiro;25
+763;Masculino;Pós-graduação;64;Divorciado;4
+764;Feminino;Graduação;31;Solteiro;2
+765;Masculino;Pós-graduação;35;Casado;19
+766;Feminino;Pós-graduação;39;Divorciado;9
+767;Feminino;Ensino Médio;;Viúvo;9
+768;Masculino;Graduação;59;Casado;21
+769;Feminino;Ensino Médio;35;Divorciado;5
+770;Masculino;Ensino Médio;70;Viúvo;3
+771;Feminino;Ensino Médio;37;Viúvo;11
+772;Feminino;Pós-graduação;49;Casado;5
+773;Feminino;Pós-graduação;19;Viúvo;14
+774;Masculino;Graduação;64;Divorciado;23
+775;Feminino;Ensino Médio;25;Viúvo;20
+776;Feminino;Ensino Médio;44;Casado;7
+777;Feminino;Ensino Médio;60;Viúvo;10
+778;Feminino;Ensino Médio;50;Divorciado;14
+779;Masculino;Ensino Médio;37;Viúvo;22
+780;Feminino;Graduação;31;Divorciado;14
+781;Masculino;Ensino Médio;67;Solteiro;15
+782;Feminino;Pós-graduação;56;Viúvo;27
+783;Feminino;Graduação;60;Casado;9
+784;Feminino;Graduação;49;Solteiro;26
+785;Masculino;Graduação;22;Casado;5
+786;Feminino;Pós-graduação;29;Solteiro;5
+787;Masculino;Pós-graduação;23;Solteiro;21
+788;Masculino;Ensino Médio;63;Viúvo;26
+789;Feminino;Pós-graduação;51;Casado;11
+790;Feminino;Graduação;37;Solteiro;10
+791;Masculino;Graduação;34;Solteiro;27
+792;Feminino;Ensino Médio;70;Solteiro;6
+793;Masculino;Pós-graduação;70;Casado;25
+794;Feminino;Ensino Médio;28;Solteiro;14
+795;Feminino;Ensino Médio;44;Casado;17
+796;Feminino;Ensino Médio;22;Solteiro;18
+797;Feminino;Pós-graduação;67;Viúvo;17
+798;Masculino;Ensino Médio;48;Divorciado;14
+799;Masculino;Graduação;54;Casado;22
+800;Masculino;Ensino Médio;34;Casado;18
+801;Feminino;Pós-graduação;51;Solteiro;27
+802;Feminino;Graduação;18;Viúvo;27
+803;Masculino;Ensino Médio;56;Divorciado;10
+804;Feminino;Graduação;27;Viúvo;6
+805;Feminino;Pós-graduação;45;Solteiro;18
+806;Masculino;Pós-graduação;29;Divorciado;16
+807;Masculino;Graduação;35;Viúvo;21
+808;Feminino;Pós-graduação;69;Solteiro;8
+809;Feminino;Ensino Médio;25;Casado;27
+810;Feminino;Graduação;64;Viúvo;19
+811;Feminino;Ensino Médio;25;Divorciado;22
+812;Feminino;Graduação;19;Viúvo;22
+813;Masculino;Pós-graduação;42;Viúvo;9
+814;Feminino;Ensino Médio;70;Viúvo;20
+815;Masculino;Ensino Médio;62;Solteiro;6
+816;Masculino;Ensino Médio;55;Solteiro;5
+817;Masculino;Graduação;68;Divorciado;19
+818;Masculino;Graduação;68;Divorciado;12
+819;Masculino;Ensino Médio;66;Casado;10
+820;Masculino;Graduação;34;Casado;7
+821;Feminino;Pós-graduação;18;Viúvo;14
+822;Feminino;Graduação;66;Divorciado;3
+823;Masculino;Graduação;26;Divorciado;26
+824;Feminino;Pós-graduação;66;Solteiro;10
+825;Feminino;Graduação;45;Viúvo;27
+826;Masculino;Graduação;57;Solteiro;2
+827;Masculino;Graduação;26;Divorciado;23
+828;Feminino;Pós-graduação;64;Solteiro;5
+829;Masculino;Ensino Médio;37;Viúvo;5
+830;Feminino;Graduação;50;Casado;7
+831;Feminino;Pós-graduação;26;Casado;18
+832;Masculino;Ensino Médio;23;Viúvo;17
+833;Masculino;Graduação;18;Solteiro;15
+834;Masculino;Ensino Médio;59;Viúvo;20
+835;Masculino;Ensino Médio;55;Casado;27
+836;Masculino;Graduação;31;Casado;14
+837;Masculino;Graduação;35;Solteiro;8
+838;Masculino;Graduação;64;Viúvo;23
+839;Masculino;Graduação;69;Viúvo;5
+840;Masculino;Ensino Médio;56;Casado;16
+841;Masculino;Ensino Médio;40;Solteiro;11
+842;Masculino;Ensino Médio;24;Divorciado;5
+843;Masculino;Pós-graduação;60;Divorciado;17
+844;Feminino;Graduação;58;Divorciado;25
+845;Masculino;Graduação;42;Casado;21
+846;Masculino;Graduação;57;Divorciado;11
+847;Feminino;Graduação;59;Viúvo;25
+848;Feminino;Graduação;24;Divorciado;19
+849;Feminino;Graduação;28;Casado;8
+850;Feminino;Pós-graduação;64;Divorciado;5
+851;Masculino;Pós-graduação;62;Divorciado;16
+852;Feminino;Graduação;33;Divorciado;5
+853;Feminino;Graduação;70;Viúvo;19
+854;Masculino;Graduação;40;Divorciado;1
+855;Feminino;Pós-graduação;69;Divorciado;27
+856;Feminino;Graduação;28;Viúvo;7
+857;Feminino;Graduação;35;Viúvo;12
+858;Feminino;Graduação;53;Divorciado;18
+859;Masculino;Ensino Médio;69;Viúvo;10
+860;Masculino;Pós-graduação;22;Solteiro;1
+861;Feminino;Pós-graduação;48;Solteiro;4
+862;Feminino;Pós-graduação;23;Divorciado;26
+863;Feminino;Ensino Médio;33;Divorciado;26
+864;Masculino;Graduação;21;Divorciado;22
+865;Feminino;Pós-graduação;59;Viúvo;4
+866;Masculino;Ensino Médio;32;Divorciado;14
+867;Feminino;Pós-graduação;59;Casado;26
+868;Feminino;Pós-graduação;68;Viúvo;20
+869;Feminino;Ensino Médio;21;Viúvo;1
+870;Masculino;Ensino Médio;49;Solteiro;26
+871;Feminino;Ensino Médio;65;Casado;6
+872;Feminino;Graduação;62;Viúvo;24
+873;Feminino;Graduação;50;Casado;14
+874;Feminino;Ensino Médio;35;Viúvo;22
+875;Masculino;Graduação;59;Divorciado;12
+876;Feminino;Ensino Médio;34;Casado;1
+877;Masculino;Ensino Médio;56;Viúvo;19
+878;Feminino;Pós-graduação;33;Divorciado;2
+879;Feminino;Pós-graduação;31;Divorciado;1
+880;Feminino;Ensino Médio;61;Divorciado;15
+881;Masculino;Graduação;46;Viúvo;17
+882;Masculino;Graduação;66;Casado;25
+883;Feminino;Graduação;58;Solteiro;7
+884;Feminino;Pós-graduação;23;Viúvo;26
+885;Feminino;Pós-graduação;62;Viúvo;21
+886;Masculino;Pós-graduação;54;Solteiro;12
+887;Feminino;Ensino Médio;56;Solteiro;5
+888;Feminino;Pós-graduação;21;Solteiro;15
+889;Masculino;Graduação;54;Solteiro;8
+856;Feminino;Graduação;28;Viúvo;7
+857;Feminino;Graduação;35;Viúvo;12
+858;Feminino;Graduação;53;Divorciado;18
+890;Feminino;Pós-graduação;64;Solteiro;3
+891;Masculino;Ensino Médio;52;Casado;27
+892;Masculino;Pós-graduação;37;Solteiro;23
+893;Feminino;Ensino Médio;28;Casado;5
+894;Feminino;Graduação;39;Viúvo;12
+895;Masculino;Pós-graduação;50;Divorciado;19
+896;Feminino;Pós-graduação;58;Solteiro;9
+897;Masculino;Pós-graduação;34;Divorciado;19
+898;Feminino;Graduação;31;Solteiro;24
+899;Feminino;Ensino Médio;60;Viúvo;27
+663;Masculino;Ensino Médio;38;Casado;24
+664;Feminino;Graduação;39;Divorciado;16
+665;Feminino;Pós-graduação;47;Casado;5
+666;Masculino;Pós-graduação;;Solteiro;9
+667;Feminino;Pós-graduação;29;Solteiro;2
+668;Feminino;Pós-graduação;27;Divorciado;22
+900;Masculino;Graduação;20;Solteiro;10
+901;Feminino;Graduação;39;Viúvo;22
+902;Feminino;Pós-graduação;33;Viúvo;5
+903;Masculino;Ensino Médio;64;Viúvo;5
+904;Masculino;Graduação;22;Solteiro;15
+905;Feminino;Ensino Médio;20;Viúvo;22
+906;Masculino;Pós-graduação;58;Viúvo;25
+907;Masculino;Pós-graduação;53;Casado;15
+908;Feminino;Ensino Médio;52;Divorciado;18
+909;Feminino;Graduação;56;Viúvo;18
+910;Feminino;Pós-graduação;70;Solteiro;14
+911;Masculino;Graduação;28;Divorciado;11
+912;Feminino;Pós-graduação;55;Solteiro;24
+913;Feminino;Ensino Médio;66;Viúvo;16
+914;Masculino;Ensino Médio;25;Solteiro;14
+915;Masculino;Pós-graduação;28;Divorciado;18
+916;Masculino;Graduação;48;Viúvo;22
+917;Feminino;Graduação;45;Divorciado;15
+918;Feminino;Graduação;55;Casado;9
+919;Feminino;Ensino Médio;66;Divorciado;24
+920;Masculino;Ensino Médio;26;Divorciado;13
+921;Masculino;Graduação;25;Divorciado;4
+922;Masculino;Graduação;44;Viúvo;22
+923;Feminino;Ensino Médio;56;Solteiro;20
+924;Masculino;Ensino Médio;57;Solteiro;27
+925;Feminino;Pós-graduação;25;Viúvo;1
+926;Masculino;Ensino Médio;35;Solteiro;22
+927;Feminino;Pós-graduação;29;Casado;18
+928;Masculino;Pós-graduação;41;Casado;2
+929;Masculino;Pós-graduação;23;Solteiro;3
+930;Masculino;Graduação;52;Solteiro;1
+931;Feminino;Pós-graduação;18;Divorciado;1
+932;Feminino;Pós-graduação;22;Viúvo;1
+933;Feminino;Ensino Médio;30;Viúvo;11
+934;Feminino;Graduação;18;Solteiro;8
+935;Masculino;Ensino Médio;24;Viúvo;11
+936;Masculino;Pós-graduação;37;Casado;9
+937;Masculino;Ensino Médio;58;Solteiro;25
+938;Masculino;Graduação;60;Viúvo;20
+939;Feminino;Ensino Médio;66;Divorciado;8
+940;Feminino;Ensino Médio;55;Divorciado;23
+941;Masculino;Graduação;56;Divorciado;16
+942;Masculino;Pós-graduação;39;Casado;2
+943;Feminino;Graduação;31;Viúvo;11
+944;Masculino;Graduação;62;Casado;5
+945;Feminino;Graduação;26;Viúvo;7
+946;Masculino;Pós-graduação;70;Solteiro;11
+947;Feminino;Ensino Médio;24;Viúvo;12
+948;Feminino;Ensino Médio;66;Viúvo;26
+949;Masculino;Pós-graduação;44;Viúvo;20
+950;Masculino;Ensino Médio;63;Viúvo;11
+951;Masculino;Graduação;39;Solteiro;6
+952;Feminino;Graduação;18;Solteiro;8
+953;Masculino;Ensino Médio;68;Casado;17
+954;Masculino;Pós-graduação;65;Solteiro;4
+955;Feminino;Graduação;38;Viúvo;3
+956;Masculino;Ensino Médio;46;Viúvo;14
+957;Masculino;Pós-graduação;56;Viúvo;4
+958;Masculino;Graduação;35;Viúvo;12
+959;Feminino;Ensino Médio;19;Viúvo;16
+960;Masculino;Pós-graduação;55;Solteiro;15
+961;Feminino;Ensino Médio;28;Viúvo;6
+962;Feminino;Pós-graduação;39;Casado;15
+963;Feminino;Graduação;32;Divorciado;18
+964;Masculino;Ensino Médio;66;Solteiro;22
+965;Feminino;Pós-graduação;21;Divorciado;3
+966;Feminino;Ensino Médio;24;Casado;1
+967;Feminino;Graduação;21;Casado;12
+968;Feminino;Pós-graduação;68;Divorciado;8
+969;Masculino;Pós-graduação;63;Divorciado;3
+970;Masculino;Pós-graduação;52;Casado;16
+971;Feminino;Ensino Médio;56;Viúvo;24
+972;Feminino;Pós-graduação;56;Solteiro;14
+973;Masculino;Pós-graduação;56;Viúvo;13
+974;Feminino;Ensino Médio;37;Viúvo;13
+975;Masculino;Pós-graduação;26;Viúvo;14
+976;Feminino;Pós-graduação;69;Solteiro;15
+977;Masculino;Pós-graduação;66;Solteiro;26
+978;Feminino;Pós-graduação;27;Viúvo;16
+979;Masculino;Ensino Médio;19;Solteiro;15
+980;Feminino;Pós-graduação;23;Casado;20
+981;Feminino;Graduação;61;Divorciado;5
+982;Feminino;Graduação;61;Viúvo;7
+983;Masculino;Graduação;60;Viúvo;13
+984;Feminino;Pós-graduação;68;Solteiro;23
+985;Feminino;Graduação;41;Solteiro;4
+986;Feminino;Pós-graduação;61;Solteiro;27
+987;Masculino;Ensino Médio;28;Viúvo;5
+988;Masculino;Graduação;55;Casado;14
+989;Masculino;Pós-graduação;56;Divorciado;21
+990;Feminino;Pós-graduação;36;Divorciado;9
+991;Feminino;Pós-graduação;39;Casado;25
+992;Feminino;Graduação;59;Casado;9
+993;Masculino;Ensino Médio;21;Solteiro;5
+994;Masculino;Graduação;33;Solteiro;3
+995;Feminino;Ensino Médio;62;Casado;14
+996;Feminino;Pós-graduação;50;Viúvo;9
+997;Masculino;Graduação;25;Viúvo;4
+998;Masculino;Ensino Médio;41;Casado;23
+999;Feminino;Pós-graduação;34;Casado;20
+1000;Masculino;Graduação;38;Viúvo;27
